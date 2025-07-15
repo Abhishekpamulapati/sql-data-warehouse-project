@@ -10,6 +10,9 @@ This project demonstrates the design and implementation of a modern data warehou
 - Bronze Layer: Raw data ingestion from diverse sources. Stored with minimal transformation to preserve original fidelity.
 - Silver Layer: Cleaned and conformed data with key joins, deduplication, and normalization applied for usability.
 - Gold Layer: Curated business-level tables optimized for reporting, analytics, and insights.
+
+<img width="786" height="591" alt="Medallion Architecture  drawio" src="https://github.com/user-attachments/assets/a74ce6d1-2545-4167-82c3-d35d3984c2d7" />
+
   
 🔧**Technologies Used**
 - Microsoft SQL Server (T-SQL)
